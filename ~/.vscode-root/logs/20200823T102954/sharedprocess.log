@@ -1,0 +1,21 @@
+[2020-08-23 10:30:08.099] [sharedprocess] [info] main {"machineId":"3d43c142280f3ce9c137e68b2027eaa712221a439439af243c1c47b82e6884c4","windowId":2}
+[2020-08-23 10:30:09.364] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/~/.vscode-root/User/snippets'
+[2020-08-23 10:30:43.644] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-08-23 10:30:46.147] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/~/.vscode-root/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.5.0
+[2020-08-23 10:30:46.570] [sharedprocess] [info] Extracted extension to /home/agil-dev/.vscode/extensions/.ms-azuretools.vscode-docker-1.5.0: ms-azuretools.vscode-docker
+[2020-08-23 10:30:46.570] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/ms-azuretools.vscode-docker-1.5.0
+[2020-08-23 10:30:46.574] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-08-23 10:30:46.684] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-08-23 10:30:48.116] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-23 16:01:47.550] [sharedprocess] [info] Installing extension: formulahendry.vscode-mysql
+[2020-08-23 16:01:49.475] [sharedprocess] [info] Downloaded extension: formulahendry.vscode-mysql /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/~/.vscode-root/CachedExtensionVSIXs/formulahendry.vscode-mysql-0.4.0
+[2020-08-23 16:01:50.228] [sharedprocess] [info] Extracted extension to /home/agil-dev/.vscode/extensions/.formulahendry.vscode-mysql-0.4.0: formulahendry.vscode-mysql
+[2020-08-23 16:01:50.228] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/formulahendry.vscode-mysql-0.4.0
+[2020-08-23 16:01:50.229] [sharedprocess] [info] Installation completed. formulahendry.vscode-mysql
+[2020-08-23 16:01:50.300] [sharedprocess] [info] Extensions installed successfully: formulahendry.vscode-mysql
+[2020-08-23 16:01:53.755] [sharedprocess] [info] Installing extension: ms-mssql.mssql
+[2020-08-23 16:01:56.596] [sharedprocess] [info] Downloaded extension: ms-mssql.mssql /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/~/.vscode-root/CachedExtensionVSIXs/ms-mssql.mssql-1.9.0
+[2020-08-23 16:01:58.574] [sharedprocess] [info] Extracted extension to /home/agil-dev/.vscode/extensions/.ms-mssql.mssql-1.9.0: ms-mssql.mssql
+[2020-08-23 16:01:58.574] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/ms-mssql.mssql-1.9.0
+[2020-08-23 16:01:58.575] [sharedprocess] [info] Installation completed. ms-mssql.mssql
+[2020-08-23 16:01:59.270] [sharedprocess] [info] Extensions installed successfully: ms-mssql.mssql

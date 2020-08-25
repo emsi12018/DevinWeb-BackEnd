@@ -1,0 +1,1495 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git config --local branch.master.github-pr-owner-number
+> git show --textconv :database/migrations/2020_08_23_161350_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_161350_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2020_08_23_161350_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_161350_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_041457_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041457_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git show --textconv :database/migrations/2020_08_24_041457_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041457_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_163102_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_041457_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041457_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_041939_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041939_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_042128_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042128_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Cities.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Cities.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Delivery_times.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Delivery_times.php
+> git show --textconv :app/Cities.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Cities.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Cities.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_041939_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041939_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_042128_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042128_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_041939_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041939_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_042128_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042128_create_delivery_times_table.php
+> git show --textconv :database/migrations/2020_08_24_041939_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041939_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Delivery_times.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Delivery_times.php
+> git show --textconv :database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git show --textconv :app/Cities.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Cities.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_041939_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041939_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043306_t_h_e.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043306_t_h_e.php
+> git show --textconv :database/migrations/2020_08_24_041939_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_041939_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_042825_create_delivery_times_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/docker-compose.yml
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/docker-compose.yml
+> git show --textconv :.env
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.env
+> git show --textconv :.editorconfig
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.editorconfig
+> git cat-file -s 6537ca4677ee97ddcb112f22d086b92721fd578c
+> git show --textconv :composer.json
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/composer.json
+> git cat-file -s 7115b20781f814a737d4b34d53d33831208d1359
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/docker-compose.yml
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :app/Citie.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Citie.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git cat-file -s 9bddee36cb3f0b9f4942b46fc7601d457ec4390e
+> git show --textconv :database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git cat-file -s 0ee0a36a4f87c2f914288abfc133573d6a6324b7
+> git show --textconv :database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2014_10_12_000000_create_users_table.php
+> git cat-file -s 621a24eb734b76ca474bb8b5ea4a62b5f27d223c
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2014_10_12_000000_create_users_table.php
+> git cat-file -s 621a24eb734b76ca474bb8b5ea4a62b5f27d223c
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Partner.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Partner.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :app/Partner.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Partner.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :app/Partner.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Partner.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/Partner.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Partner.php
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :app/City.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/City.php
+> git show --textconv :app/Partner.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Partner.php
+> git show --textconv :app/Deliverytime.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/app/Deliverytime.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git show --textconv :database/migrations/2020_08_24_043748_create_cities_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043748_create_cities_table.php
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git show --textconv :database/migrations/2020_08_23_162737_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/database/migrations/2020_08_23_162737_create_partners_table.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

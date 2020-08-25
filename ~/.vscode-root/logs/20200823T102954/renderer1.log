@@ -1,0 +1,12 @@
+[2020-08-23 15:25:42.405] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:362)
+    at g._provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4445:537)
+    at async g.provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3449:497)
+[2020-08-23 15:25:44.045] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:362)
+    at g._provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4445:537)
+    at async g.provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3449:497)
+[2020-08-23 15:25:50.359] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:362)
+    at g._provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4445:537)
+    at async g.provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3449:497)
