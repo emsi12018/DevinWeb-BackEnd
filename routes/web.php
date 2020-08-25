@@ -16,3 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/add-partner','PartnerController@addPartner');
+
+
+Route::get('/add-city','CityController@addCity');
+
+Route::get('/add-deliverytime','DeliverytimeController@addDeliverytime');
+
+Route::get('/get-partner/{id}','PartnerController@getPartnerByCity');

@@ -17,3 +17,9 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::apiResource('cities', 'CityController');
+
+Route::apiResource('deliverytimes', 'DeliverytimeController');
+
+Route::apiResource('cities/{city_id}/delivery-times', 'CityDeliverytimeController');
