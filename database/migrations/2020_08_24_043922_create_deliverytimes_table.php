@@ -16,9 +16,7 @@ class CreateDeliverytimesTable extends Migration
         Schema::create('deliverytimes', function (Blueprint $table) {
             $table->id();
             $table->string("delivery_at");
-            $table->bigInteger('city_id')->nullable()->unsigned();
             $table->timestamps();
-            $table->foreign('city_id')->references('id')->on('cities')->onDelete('cascade');
         });
     }
 

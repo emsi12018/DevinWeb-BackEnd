@@ -86,3 +86,160 @@ fatal: no upstream configured for branch 'master'
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2020_08_25_122909_create_city_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_25_122909_create_city_deliverytimes_table.php
+> git cat-file -s 4b003cde1ee5ebc8712c579bdf21a9610f566498
+> git show --textconv :database/migrations/2020_08_25_040657_create_partners_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_25_040657_create_partners_table.php
+> git cat-file -s bf514fb9316c8bd0d5135f3cf9dd3eda63fbdf75
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git cat-file -s 6b68525576e5ffc6826f825f9909e299637481fe
+> git show --textconv :database/migrations/2020_08_25_122909_create_city_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_25_122909_create_city_deliverytimes_table.php
+> git cat-file -s 4b003cde1ee5ebc8712c579bdf21a9610f566498
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git cat-file -s 6b68525576e5ffc6826f825f9909e299637481fe
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/docker-compose.yml
+> git cat-file -s 3be680a3f672a1cf6698821874304de4a75b4cc4
+> git show --textconv :Dockerfile
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/Dockerfile
+> git cat-file -s 2fbde0a5d794cca3323ed7355d1af97e9b319d7c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git cat-file -s 6b68525576e5ffc6826f825f9909e299637481fe
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :mysql/my.cnf
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/mysql/my.cnf
+> git cat-file -s 1c50b02664117bb05e95b09ed5faa16efb930da8
+> git show --textconv :.env
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb-backend/laravel-api/database/migrations/2020_08_24_043922_create_deliverytimes_table.php
+> git cat-file -s 6b68525576e5ffc6826f825f9909e299637481fe
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
